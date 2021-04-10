@@ -1,5 +1,6 @@
 # m3-reviews-site-team-divas
 m3-reviews-site-team-divas created by GitHub Classroom
+This was originally a group project created by Karlton Shoemaker, Shannon Adams, and Mary Kemp (team "divas"). I have recreated the repository here so that my contributions can be displayed.
 
 ## Overview
 This project is a website created using MVC with the Entity Framework Core that is a collection of Musical Theatre reviews. 
